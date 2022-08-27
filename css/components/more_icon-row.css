@@ -1,0 +1,36 @@
+.more_icon-row {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+}
+
+.more_icon-row_1 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.more_icon-row_2 {
+    display: flex;
+}
+
+#icons-Account {
+    margin-left: 5px;
+    margin-right: 113px;
+}
+
+.more_icon-row__icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.more_icon-row__icons i {
+    font-size: 35px;
+}
+
+.more_icon-row__icons span {
+    margin-top: 10px;
+}
+
+
